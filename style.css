@@ -1,3 +1,12 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: content-box;
+}
+
+
+
 .title{
     color: blue;
     background-color: orange;
@@ -78,5 +87,31 @@
     padding: 16px 8px;
     margin-right: 1000px;
     margin-bottom: 15px;
+}
+
+#chicken-main{
+    font-size: larger;
+    padding: 15px 20px;
+    margin: auto;
+    margin-right: 1600px;
+    
+}
+
+#pizza-main{
+    font-size: larger;
+    padding: 12px 15px;
+    margin-top: -290px;
+    margin-left: 400px;
+    margin-right: 1200px;
+    color: red;
+
+}
+
+#pie-main{
+    font-size: larger;
+    padding: 12px 15px;
+    margin-left: 800px;
+    margin-top: -280px;
+    margin-right: 850px;
 }
 
